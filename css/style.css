@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 200px;
+    height: 80px;
+    margin-left: 50px;
+}
+.navbar{
+    background:#B0C4DE;
+}
+.quem-somos{
+    background-color: aqua;
+}
+.margin{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
