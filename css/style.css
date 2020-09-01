@@ -27,3 +27,13 @@ bofy{
 .parceiros{
     background-color:#66CDAA;
 }
+.rodape{
+    align-content: center;
+    font: 15px;
+    color: white;
+
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
